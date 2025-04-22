@@ -24,9 +24,9 @@ The data for this project is sourced from Github:
 
 ## Business Problems and Solutions
 
-- **Business Problems: ** [ToFile: Business Problems.sql](https://github.com/skimran45/BikeStore-Portfolio-Project-SQL/blob/3db15d71d5de1ea065861ae7790b77da366ff7ad/Business%20Problems.sql)
+- **Business Problems: ** [ToFile-Business Problems.sql](https://github.com/skimran45/BikeStore-Portfolio-Project-SQL/blob/3db15d71d5de1ea065861ae7790b77da366ff7ad/Business%20Problems.sql)
 
-- **Solutions: ** [ToFile: Solutions.sql](https://github.com/skimran45/BikeStore-Portfolio-Project-SQL/blob/3db15d71d5de1ea065861ae7790b77da366ff7ad/Solutions.sql)
+- **Solutions: ** [ToFile-Solutions.sql](https://github.com/skimran45/BikeStore-Portfolio-Project-SQL/blob/3db15d71d5de1ea065861ae7790b77da366ff7ad/Solutions.sql)
 
 ## Findings and Conclusion
 
