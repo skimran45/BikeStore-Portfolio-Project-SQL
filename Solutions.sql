@@ -70,7 +70,7 @@ GROUP  BY o.order_status
 ORDER  BY o.order_status 
 
 
--- Show the order count for each month in 2016–2018
+-- Show the order count for each month in 2016â€“2018
 
 SELECT Format(o.order_date, 'yyyy/MM') AS Months,
        Count(o.order_id)               AS OrderCount
@@ -256,3 +256,5 @@ WHERE  piv1.[1] = 0
         OR piv1.[2] = 0
         OR piv1.[3] = 0
 ORDER  BY piv1.product_name 
+
+-- End of reports
