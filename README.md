@@ -1,4 +1,4 @@
-# BikeStore Data Analysis using SQL
+# BikeStore Database Analysis using SQL
 
 ![](https://github.com/skimran45/BikeStore-Portfolio-Project-SQL/blob/3db15d71d5de1ea065861ae7790b77da366ff7ad/logo.png)
 
